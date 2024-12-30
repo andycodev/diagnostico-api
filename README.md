@@ -1,7 +1,8 @@
-# API REST para Diagnóstico
+# API REST para Diagnósticos
 
 Este proyecto contiene una API REST desarrollada en Java utilizando Spring Boot. La API gestiona los datos relacionados con los diagnósticos a través de varios endpoints.
 
+## Resumen de Endpoints
 | **Método HTTP** | **Endpoint**                | **Descripción**                                     | **Detalle de la Solicitud**                                                                                                                                                                                  |
 |------------------|-----------------------------|-----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **GET**          | `/diagnosticos`            | Obtiene todos los diagnósticos                      | **URL**: `http://localhost:8080/diagnosticos`                                                                                                                                                                |
